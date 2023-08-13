@@ -1,0 +1,9 @@
+1. pip install -r requirements.txt
+2. replace everything on config.json
+3. go to main.py line 35-40 , replace to your keyauth python value
+4. python main.py / run start.bat
+
+*THE BOOST TOOL DOESNT SUPPORT AUTO SLOVE CAPTCHA , ONLY USING GOOD TOKEN & HIGH QUALITY BOOST BOT
+
+Look for nitro token & Boost Bot ?
+discord.gg/cheapboost
